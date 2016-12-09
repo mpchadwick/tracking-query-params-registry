@@ -1,0 +1,15 @@
+Param, Platform
+gclid, Google AdWords / Google Analytics
+gclsrc, Google DoubleClick
+utm_content, Google Analytics
+utm_term, Google Analytics
+utm_campaign, Google Analytics
+utm_medium, Google Analytics
+utm_source, Google Analytics
+_ga, Google Analytics
+mc_cid, Mailchimp
+mc_eid, Mailchimp
+_bta_tid, Bronto
+gdfms, GoDataFeed
+gdftrk, GoDataFeed
+gdffi, GoDataFeed
