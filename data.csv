@@ -10,7 +10,13 @@ _ga, Google Analytics
 mc_cid, Mailchimp
 mc_eid, Mailchimp
 _bta_tid, Bronto
+_bta_c, Bronto
 gdfms, GoDataFeed
 gdftrk, GoDataFeed
 gdffi, GoDataFeed
 _ke, Klaviyo
+redirect_log_mongo_id, Springbot
+redirect_mongo_id, Springbot
+sb_referer_host, Springbot
+mkwid, Marin
+pcrid, Marin
