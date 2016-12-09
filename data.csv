@@ -1,4 +1,4 @@
-Param, Platform
+Param, Platform, Confirmed In
 gclid, Google AdWords / Google Analytics
 gclsrc, Google DoubleClick
 utm_content, Google Analytics
@@ -9,8 +9,8 @@ utm_source, Google Analytics
 _ga, Google Analytics
 mc_cid, Mailchimp
 mc_eid, Mailchimp
-_bta_tid, Bronto
-_bta_c, Bronto
+_bta_tid, Bronto, https://p.bm23.com/bta.js
+_bta_c, Bronto, https://p.bm23.com/bta.js
 trk_contact, Listrak
 trk_msg, Listrak
 trk_module, Listrak
