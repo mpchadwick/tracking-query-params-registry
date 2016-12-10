@@ -17,7 +17,7 @@ trk_module, Listrak,
 gdfms, GoDataFeed,
 gdftrk, GoDataFeed,
 gdffi, GoDataFeed,
-_ke, Klaviyo,
+_ke, Klaviyo, http://a.klaviyo.com/media/js/analytics/analytics.js
 redirect_log_mongo_id, Springbot,
 redirect_mongo_id, Springbot,
 sb_referer_host, Springbot,
