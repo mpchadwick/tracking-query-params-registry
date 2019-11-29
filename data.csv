@@ -1,4 +1,5 @@
 Param, Platform, Confirmed In
+fbclid, Facebook,
 gclid, Google AdWords / Google Analytics,
 gclsrc, Google DoubleClick,
 utm_content, Google Analytics,
