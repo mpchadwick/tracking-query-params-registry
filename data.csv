@@ -25,3 +25,5 @@ redirect_mongo_id, Springbot,
 sb_referer_host, Springbot,
 mkwid, Marin,
 pcrid, Marin,
+ef_id, Adobe Advertising Cloud, https://helpx.adobe.com/media-optimizer/internal-kb/conversion-tracking-basics.html
+s_kwcid, Adobe Analytics, https://docs.adobe.com/content/help/en/analytics/integration/advertising-analytics/advertising-analytics-workflow/aa-manual-vs-automatic-tracking.html
