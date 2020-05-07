@@ -10,7 +10,7 @@ The purpose of this repository is to keep a centralized list of tracking query p
 
 {% include table.html %}
 
-The lists is contained in [params.csv](https://github.com/mpchadwick/tracking-query-params-registry/blob/gh-pages/_data/params.csv). The file contains 4 columns...
+The lists is contained in [params.csv](https://github.com/mpchadwick/tracking-query-params-registry/blob/master/_data/params.csv). The file contains 4 columns...
 
 - **Param** This is the query parameter appended to URLs
 - **Platform** This is the platform that is responsible for appending this parameter
