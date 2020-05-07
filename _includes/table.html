@@ -1,0 +1,18 @@
+<table>
+	<thead>
+		<tr>
+			<th style="text-align: left;">Name</th>
+			<th style="text-align: left;">Platform</th>
+			<th style="text-align: left;">Confirmed In</th>
+			<th style="text-align: left;">Unique Per Visitor</th>
+		</tr>
+	</thead>
+{% for param in site.data.params %}
+<tr>
+	<td>{{ param.name }}</td>
+	<td>{{ param.platform }}</td>
+	<td>{{ param.confirmed_in }}</td>
+	<td>{{ param.unique_per_visitor }}</td>
+</tr>
+{% endfor %}
+</table>

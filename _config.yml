@@ -1,2 +1,4 @@
 plugins:
   - jekyll-readme-index
+
+theme: jekyll-theme-primer
