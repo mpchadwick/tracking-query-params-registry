@@ -1,7 +1,7 @@
 name,platform,confirmed_in,unique_per_visitor
 fbclid,Facebook,,
-gclid, Google AdWords / Google Analytics,,
-gclsrc, Google DoubleClick,,
+gclid, Google AdWords / Google Analytics,https://support.google.com/searchads/answer/6292795,
+gclsrc, Google DoubleClick,https://support.google.com/searchads/answer/6292795,
 utm_content, Google Analytics,,
 utm_term, Google Analytics,,
 utm_campaign, Google Analytics,,
