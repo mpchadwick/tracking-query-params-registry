@@ -1,0 +1,15 @@
+{
+  "name": "tracking-query-params-registry",
+  "version": "1.0.0",
+  "description": "A list of query params used for tracking by various marketing tools",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpchadwick/tracking-query-params-registry.git"
+  },
+  "author": "Max Chadwick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpchadwick/tracking-query-params-registry/issues"
+  },
+  "homepage": "https://github.com/mpchadwick/tracking-query-params-registry#readme"
+}
