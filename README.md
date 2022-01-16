@@ -17,7 +17,7 @@ The lists is contained in [params.csv](https://github.com/mpchadwick/tracking-qu
 - **Confirmed In** A reference to the query parameter
 - **Unique Per Visitor** Whether or not the parameter is unique for each visitor
 
-The intention is to use this list to form a ignore list for your page cache implementation.
+The intention is to use this list to form an ignore list for your page cache implementation.
 
 ## Contributing
 
