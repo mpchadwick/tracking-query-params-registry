@@ -64,3 +64,9 @@ hsa_kw, Hubspot, https://knowledge.hubspot.com/ads/ad-tracking-in-hubspot,
 hsa_tgt, Hubspot, https://knowledge.hubspot.com/ads/ad-tracking-in-hubspot,
 hsa_ver, Hubspot, https://knowledge.hubspot.com/ads/ad-tracking-in-hubspot,
 _branch_match_id, Branch, https://stackoverflow.com/a/37892369, Yes
+mkevt, eBay, https://partnerhelp.ebay.com/helpcenter/s/article/What-are-the-parameters-of-an-EPN-link#tracking-link-format, No
+mkcid, eBay, https://partnerhelp.ebay.com/helpcenter/s/article/What-are-the-parameters-of-an-EPN-link#tracking-link-format, No
+mkrid, eBay, https://partnerhelp.ebay.com/helpcenter/s/article/What-are-the-parameters-of-an-EPN-link#tracking-link-format, No
+campid, eBay, https://partnerhelp.ebay.com/helpcenter/s/article/What-are-the-parameters-of-an-EPN-link#tracking-link-format, No
+toolid, eBay, https://partnerhelp.ebay.com/helpcenter/s/article/What-are-the-parameters-of-an-EPN-link#tracking-link-format, No
+customid, eBay, https://partnerhelp.ebay.com/helpcenter/s/article/What-are-the-parameters-of-an-EPN-link#tracking-link-format, No
