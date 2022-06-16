@@ -2,3 +2,5 @@ plugins:
   - jekyll-readme-index
 
 theme: jekyll-theme-primer
+
+repository: mpchadwick/tracking-query-params-registry
