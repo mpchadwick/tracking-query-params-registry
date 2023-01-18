@@ -72,3 +72,6 @@ toolid, eBay, https://partnerhelp.ebay.com/helpcenter/s/article/What-are-the-par
 customid, eBay, https://partnerhelp.ebay.com/helpcenter/s/article/What-are-the-parameters-of-an-EPN-link#tracking-link-format, No
 igshid, Instagram, https://github.com/brave/brave-browser/issues/11580,
 si, Spotify, https://community.spotify.com/t5/Desktop-Windows/si-Parameter-in-Spotify-URL-s/td-p/4538290,
+sms_source, Wunderkind, https://assets.bounceexchange.com/assets/smart-tag/versioned/sms_2579b6aa71148c3eb940153c85a653a0.br.js, No
+sms_click, Wunderkind, https://assets.bounceexchange.com/assets/smart-tag/versioned/sms_2579b6aa71148c3eb940153c85a653a0.br.js, Yes
+sms_uph, Wunderkind, https://assets.bounceexchange.com/assets/smart-tag/versioned/sms_2579b6aa71148c3eb940153c85a653a0.br.js, Yes
