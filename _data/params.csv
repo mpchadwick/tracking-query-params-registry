@@ -26,6 +26,7 @@ gdfms, GoDataFeed,,
 gdftrk, GoDataFeed,,
 gdffi, GoDataFeed,,
 _ke, Klaviyo, http://a.klaviyo.com/media/js/analytics/analytics.js,
+_kx, Klaviyo, https://help.klaviyo.com/hc/en-us/articles/115005076767#the-_-kx-parameter7, Yes
 redirect_log_mongo_id, Springbot,,
 redirect_mongo_id, Springbot,,
 sb_referer_host, Springbot,,
