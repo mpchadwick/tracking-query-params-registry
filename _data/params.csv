@@ -88,3 +88,5 @@ sms_uph, Wunderkind, https://assets.bounceexchange.com/assets/smart-tag/versione
 ttclid, TikTok, https://ads.tiktok.com/help/article/tiktok-click-id, Yes
 ndclid, Next Door,,Yes
 ScCid, Snapchat, https://businesshelp.snapchat.com/s/article/click-id, Yes
+rtid, Rokt, https://docs.rokt.com/developers/integration-guides/web/advanced/rokt-id-tag/, Yes
+irclickid, Impact (formerly Impact Radius), https://integrations.impact.com/impact-brand/docs/api-tracking-integration, Yes
