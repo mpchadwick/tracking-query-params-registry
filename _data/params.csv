@@ -8,7 +8,7 @@ wbraid, Google AdWords,https://support.google.com/google-ads/answer/10417364,
 gad_source, Google AdWords,https://support.google.com/google-ads/answer/13327296,
 srsltid, Google Analytics,https://support.google.com/analytics/answer/11479699,
 twclid, Twitter,https://business.twitter.com/en/help/campaign-measurement-and-analytics/conversion-tracking-for-websites.html,
-yclid, Yahoo,https://ads-help.yahoo-net.jp/s/article/H000044650,
+yclid, Yandex,https://yandex.com/support/metrica/data/yclid.html,
 utm_content, Google Analytics, https://support.google.com/analytics/answer/10917952, No
 utm_term, Google Analytics, https://support.google.com/analytics/answer/10917952, No
 utm_campaign, Google Analytics, https://support.google.com/analytics/answer/10917952, No
@@ -92,3 +92,4 @@ ndclid, Next Door,,Yes
 ScCid, Snapchat, https://businesshelp.snapchat.com/s/article/click-id, Yes
 rtid, Rokt, https://docs.rokt.com/developers/integration-guides/web/advanced/rokt-id-tag/, Yes
 irclickid, Impact (formerly Impact Radius), https://integrations.impact.com/impact-brand/docs/api-tracking-integration, Yes
+vmcid, Yahoo, https://help.yahooinc.com/identity/docs/track-conversions,
