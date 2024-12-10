@@ -8,7 +8,7 @@ wbraid, Google AdWords,https://support.google.com/google-ads/answer/10417364,
 gad_source, Google AdWords,https://support.google.com/google-ads/answer/13327296,
 srsltid, Google Analytics,https://support.google.com/analytics/answer/11479699,
 twclid, Twitter,https://business.twitter.com/en/help/campaign-measurement-and-analytics/conversion-tracking-for-websites.html,
-yclid, Yahoo,https://ads-help.yahoo-net.jp/s/article/H000044650,
+yclid, Yahoo / Yandex,https://ads-help.yahoo-net.jp/s/article/H000044650 | https://yandex.com/support/metrica/data/yclid.html,
 utm_content, Google Analytics, https://support.google.com/analytics/answer/10917952, No
 utm_term, Google Analytics, https://support.google.com/analytics/answer/10917952, No
 utm_campaign, Google Analytics, https://support.google.com/analytics/answer/10917952, No
@@ -83,7 +83,7 @@ campid, eBay, https://partnerhelp.ebay.com/helpcenter/s/article/What-are-the-par
 toolid, eBay, https://partnerhelp.ebay.com/helpcenter/s/article/What-are-the-parameters-of-an-EPN-link#tracking-link-format, No
 customid, eBay, https://partnerhelp.ebay.com/helpcenter/s/article/What-are-the-parameters-of-an-EPN-link#tracking-link-format, No
 igshid, Instagram, https://github.com/brave/brave-browser/issues/11580,
-si, Spotify, https://community.spotify.com/t5/Desktop-Windows/si-Parameter-in-Spotify-URL-s/td-p/4538290,
+si, Spotify / YouTube, https://community.spotify.com/t5/Desktop-Windows/si-Parameter-in-Spotify-URL-s/td-p/4538290,
 sms_source, Wunderkind, https://assets.bounceexchange.com/assets/smart-tag/versioned/sms_2579b6aa71148c3eb940153c85a653a0.br.js, No
 sms_click, Wunderkind, https://assets.bounceexchange.com/assets/smart-tag/versioned/sms_2579b6aa71148c3eb940153c85a653a0.br.js, Yes
 sms_uph, Wunderkind, https://assets.bounceexchange.com/assets/smart-tag/versioned/sms_2579b6aa71148c3eb940153c85a653a0.br.js, Yes
@@ -92,3 +92,4 @@ ndclid, Next Door,,Yes
 ScCid, Snapchat, https://businesshelp.snapchat.com/s/article/click-id, Yes
 rtid, Rokt, https://docs.rokt.com/developers/integration-guides/web/advanced/rokt-id-tag/, Yes
 irclickid, Impact (formerly Impact Radius), https://integrations.impact.com/impact-brand/docs/api-tracking-integration, Yes
+vmcid, Yahoo, https://help.yahooinc.com/identity/docs/track-conversions,
