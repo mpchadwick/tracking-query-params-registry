@@ -20,7 +20,7 @@ utm_creative_format, Google Analytics, https://support.google.com/analytics/answ
 utm_marketing_tactic, Google Analytics, https://support.google.com/analytics/answer/10917952, No
 _ga, Google Analytics,,
 _gl, Google Analytics, https://support.google.com/analytics/answer/10071811, Yes
-stsltid, Google Shopping/Organic, https://support.google.com/analytics/answer/11479699, Yes
+srsltid, Google Shopping/Organic, https://support.google.com/analytics/answer/11479699, Yes
 mc_cid, Mailchimp,,
 mc_eid, Mailchimp,,
 _bta_tid, Bronto, https://p.bm23.com/bta.js,
