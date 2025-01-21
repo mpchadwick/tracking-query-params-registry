@@ -94,3 +94,8 @@ ScCid, Snapchat, https://businesshelp.snapchat.com/s/article/click-id, Yes
 rtid, Rokt, https://docs.rokt.com/developers/integration-guides/web/advanced/rokt-id-tag/, Yes
 irclickid, Impact (formerly Impact Radius), https://integrations.impact.com/impact-brand/docs/api-tracking-integration, Yes
 vmcid, Yahoo, https://help.yahooinc.com/identity/docs/track-conversions,
+tw_source, Triple Whale, https://kb.triplewhale.com/en/articles/9534445-attribution-for-non-integrated-channels, 
+tw_campaign, Triple Whale, https://kb.triplewhale.com/en/articles/9534445-attribution-for-non-integrated-channels, 
+tw_term, Triple Whale, https://kb.triplewhale.com/en/articles/9534445-attribution-for-non-integrated-channels, 
+tw_content, Triple Whale, https://kb.triplewhale.com/en/articles/9534445-attribution-for-non-integrated-channels, 
+tw_adid, Triple Whale, https://kb.triplewhale.com/en/articles/6448705-acceptable-utm-source-ad-id-values, 
