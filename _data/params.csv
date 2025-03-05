@@ -1,5 +1,5 @@
 name,platform,confirmed_in,unique_per_visitor
-fbclid,Facebook,,
+fbclid,Facebook,https://developers.facebook.com/docs/marketing-api/conversions-api/parameters/fbp-and-fbc#what-is-meta-s-clickid,
 gclid, Google AdWords / Google Analytics,https://support.google.com/searchads/answer/6292795,
 gclsrc, Google DoubleClick,https://support.google.com/searchads/answer/6292795,
 dclid, Google DoubleClick,https://support.google.com/campaignmanager/answer/9182069,
