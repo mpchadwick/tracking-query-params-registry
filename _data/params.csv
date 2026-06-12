@@ -129,6 +129,8 @@ bg_aid_v,Billy Grace,https://help.billygrace.com/en/articles/6268656-required-ut
 bg_campaign,Billy Grace,https://help.billygrace.com/en/articles/9735689-checking-utm-tracking,
 bg_source,Billy Grace,https://help.billygrace.com/en/articles/9735689-checking-utm-tracking,
 bg_source_id,Billy Grace,https://help.billygrace.com/en/articles/9735689-checking-utm-tracking,
+cto_pld,Criteo payload,https://support.attribuly.com/en/articles/9742881-channel-group,
+rtbhc,Real Time Bidding Hash Click,https://www.rtbhouse.com/,
 nbt,Northbeam,https://docs.northbeam.io/docs/setting-up-google-ads-for-northbeam,
 nb_adtype,Northbeam,Always combined with ntb and other nb_* params,
 nb_ap,Northbeam,Always combined with ntb and other nb_* params,
